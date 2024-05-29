@@ -42,7 +42,7 @@
     align-items: center;
     justify-content: center;
     display: flex;
-
+    background-image: url(../img/detalhe.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -97,6 +97,7 @@
     align-items: center;
     justify-content: center;
     display: flex;
+     background-image: url("../img/detalhe.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
