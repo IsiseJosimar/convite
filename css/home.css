@@ -28,13 +28,21 @@
 
  
   .nomes {
-    
+   
    padding-top: 20px;
     text-align: center;
 
    
 }
 
+
+
+
+.nomedata{
+    padding: 0 !important;
+    margin-top: -15px;
+ 
+}
 .home .detalhes {
     min-width: 400px;
     height: 323px;
